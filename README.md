@@ -23,7 +23,7 @@ Deepening my knowledge in **Monolithic architecture**, **Database optimization**
 ---
 
 ### 📫 Let's Connect
-[LinkedIn](https://linkedin.com/in/your-profile) • [Email](mailto:your.email@example.com) • [Portfolio](link_here)
+[LinkedIn](https://linkedin.com/in/your-profile) • [Email](mailto:your.email@example.com)• 
   
 
 <!---
